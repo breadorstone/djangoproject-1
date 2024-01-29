@@ -1,0 +1,9 @@
+body {
+    background: white url("images/bongo-cat-bongo.gif") no-repeat;
+    background-size: 200px auto;
+}
+
+li a {
+    color: green;
+
+}
